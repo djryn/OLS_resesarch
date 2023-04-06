@@ -1,0 +1,16 @@
+Trigram,Frequency
+"('open', 'border', 'policies')",33
+"('biden', 'open', 'border')",23
+"('texas', 'national', 'guard')",20
+"('migrants', 'sanctuary', 'cities')",18
+"('bused', 'migrants', 'sanctuary')",15
+"('lethal', 'fentanyl', 'doses')",12
+"('fentanyl', 'doses', 'seized')",12
+"('doses', 'seized', 'migrants')",11
+"('deadly', 'fentanyl', 'doses')",11
+"('seized', 'migrants', 'bused')",10
+"('gaps', 'left', 'biden')",10
+"('dangerous', 'gaps', 'left')",10
+"('deadly', 'drugs', 'weapons')",10
+"('filling', 'dangerous', 'gaps')",9
+"('made', 'criminal', 'arrests')",9

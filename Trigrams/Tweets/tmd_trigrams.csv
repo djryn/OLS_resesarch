@@ -1,0 +1,16 @@
+Trigram,Frequency
+"('texas', 'mexico', 'border')",21
+"('along', 'texas', 'mexico')",18
+"('rio', 'grande', 'river')",7
+"('texas', 'national', 'guard')",6
+"('active', 'duty', 'mission')",5
+"('state', 'active', 'duty')",5
+"('along', 'southern', 'border')",5
+"('mission', 'block', 'repel')",4
+"('duty', 'mission', 'block')",4
+"('activities', 'along', 'texas')",4
+"('criminal', 'activities', 'along')",4
+"('repel', 'criminal', 'activities')",4
+"('block', 'repel', 'criminal')",4
+"('smuggling', 'human', 'trafficking')",4
+"('along', 'rio', 'grande')",4

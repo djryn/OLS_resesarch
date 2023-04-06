@@ -1,0 +1,16 @@
+Trigram,Frequency
+"('smuggling', 'people', 'drugs')",14
+"('people', 'drugs', 'texas')",10
+"('combat', 'smuggling', 'people')",10
+"('dps', 'continues', 'work')",8
+"('work', 'secure', 'border')",7
+"('secure', 'border', 'protect')",7
+"('every', 'day', 'dps')",7
+"('law', 'enforcement', 'partners')",7
+"('secure', 'border', 'gov')",7
+"('border', 'part', 'gov')",7
+"('local', 'law', 'enforcement')",6
+"('secure', 'border', 'part')",6
+"('air', 'ground', 'marine')",6
+"('ground', 'marine', 'tactical')",5
+"('criminals', 'combat', 'smuggling')",5
