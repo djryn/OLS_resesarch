@@ -1,0 +1,16 @@
+Trigram,Frequency
+"('criminal', 'investigations', 'division')",20
+"('director', 'steven', 'mccraw')",18
+"('received', 'lifesaving', 'award')",18
+"('de', 'la', 'garza')",16
+"('lifesaving', 'award', 'actions')",15
+"('highway', 'patrol', 'trooper')",14
+"('military', 'department', 'tmd')",12
+"('regional', 'headquarters', 'weslaco')",11
+"('austin', 'military', 'department')",10
+"('highway', 'patrol', 'headquarters')",10
+"('patrol', 'headquarters', 'sgt')",9
+"('held', 'regional', 'headquarters')",8
+"('briefing', 'held', 'regional')",8
+"('trooper', 'stopped', 'vehicle')",8
+"('patrol', 'trooper', 'stopped')",8

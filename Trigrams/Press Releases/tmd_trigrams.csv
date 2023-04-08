@@ -1,0 +1,16 @@
+Trigram,Frequency
+"('department', 'public', 'affairs')",11
+"('military', 'department', 'public')",11
+"('contact', 'military', 'department')",11
+"('public', 'affairs', 'office')",11
+"('media', 'representatives', 'wishing')",9
+"('immediate', 'public', 'release')",9
+"('information', 'contact', 'military')",9
+"('representatives', 'wishing', 'obtain')",9
+"('wishing', 'obtain', 'information')",9
+"('obtain', 'information', 'contact')",9
+"('mbx', 'pao', 'army')",7
+"('txarng', 'mbx', 'pao')",7
+"('ng', 'tx', 'txarng')",7
+"('office', 'ng', 'tx')",7
+"('affairs', 'office', 'ng')",7
